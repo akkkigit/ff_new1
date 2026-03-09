@@ -1,33 +1,4 @@
-First Line (1)
+First Line
 
-Second Line 2
-=======
-Second Line (2)
-
-Third Line 
-
-Fourth Line
-
-Fifth Line 5
-
-
-Sixth Line (6).
-=======
-Sixth Line 6
-
-Seventh Line
-
-Eighth Line 
-
-Ninth Line
-
-XYZ
-
-
-LMN.,.
-LMN.,,
-
-pqr is a new branch.
-
-Trial Project
+Second Line 
 
